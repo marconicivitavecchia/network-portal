@@ -1,6 +1,7 @@
 var app = {
 	init: function() {
-		$(".internal-network").show();
+    console.log("init");
+		$(".net-int").show();
 	}
 }
 
